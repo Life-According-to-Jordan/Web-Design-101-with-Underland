@@ -18,3 +18,16 @@ a {
 h2, p {
         text-align: center;
 }
+
+/*this changes the id="header" a specified RGB color*/
+
+#header {
+    background: rgb(134, 255, 255);
+}
+
+
+/*this changes the id="content" a specified RGB color*/
+
+#content {
+    background: peachpuff;
+}
